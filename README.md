@@ -9,7 +9,8 @@ A tool to check if files with same name in two different directory are the same 
 * Execute py script or exe file
 * Select two directories
 
-
+# md5compare
+一个用于检测两目录下（包括子目录）所有同名文件是否相同的小工具（比对MD5）。
 ## 模块
 * os：获取文件及其路径
 * hashlib：获取文件的MD5
